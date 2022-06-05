@@ -6,7 +6,7 @@ function add (a,b) {
 
 console.log(add(4,5));
 
-let total = function add (a,b){
+let total = function (a,b){
     sum = a+b;
     return sum
 }
