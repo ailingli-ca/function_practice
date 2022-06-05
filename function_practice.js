@@ -18,9 +18,9 @@ function insult (a) {
     if (i === 0) {
         return a+ ", you doofus!";
     } else if (i === 1) {
-        return "happy!";
+        return `${a}, be happy!`;
     } else {
-        return "Eww!";
+        return `${a}, come here!`;
     }
     
 }
